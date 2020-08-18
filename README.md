@@ -50,7 +50,7 @@ This project is open for contribution,constructive corrections and any other ide
 This can be done by sending an email to ojosonia@yahoo.com
 
 ### Testing
- I have tested my site on google chrome and the website works fine. i have also tested it on differend kind of devices
+ I have tested my site on google chrome and the website works fine. i have also tested it on differend kind of devices.
  Iphone x
  Iphone 5,6,7,8,9
  Samsung galaxy
