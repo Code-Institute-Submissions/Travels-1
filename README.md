@@ -50,18 +50,19 @@ This project is open for contribution,constructive corrections and any other ide
 This can be done by sending an email to ojosonia@yahoo.com
 
 ### Testing
- I have tested my site on google chrome and the website works fine. i have also tested it on differend kind of devices.
- Iphone x
- Iphone 5,6,7,8,9
- Samsung galaxy
- Macbook pro
- Ipad
- Desktop
+ I have tested my site on google chrome and the website works fine. i have also tested it on differend kind of devices,
+ and they fit well on these devices.
+ 1. Iphone x
+ 2. Iphone 5,6,7,8,9
+ 3. Samsung galaxy
+ 4. Macbook pro
+ 5. Ipad
+ 6. Desktop
 
  ### Automated Testing
  Google developer tools was use to identify errors.The developer tools has a feature to check if the site is responsive,
  it shows how the website looks on diffrend devices, the site looks good on the Desktop view, the content are strench,
- across the site. The mobile view looks good.
+ across the site. The mobile view looks good, i think the map look too long on the mobile device.
 
 
  ### Deployment
