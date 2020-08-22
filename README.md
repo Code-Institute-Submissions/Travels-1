@@ -65,7 +65,7 @@ This can be done by sending an email to ojosonia@yahoo.com
 
 
  ### Deployment
- 1. Create a repository on GitHub and project namw
+ 1. Create a repository on GitHub and project name
  1. Open the gitpod button by clicking on the green
  3. Initialise your repository
  4. Add files to the staging area and use the git add command
